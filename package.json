@@ -1,7 +1,7 @@
 {
-  "name": "geomagnetism",
+  "name": "geomagnetism-no-path",
   "version": "0.1.0",
-  "description": "Computes geomagnetic field information",
+  "description": "Computes geomagnetic field information - fork without path dependency",
   "main": "index.js",
   "scripts": {
     "test": "mocha test",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naturalatlas/geomagnetism.git"
+    "url": "https://github.com/sf31/geomagnetism"
   },
   "keywords": [
     "geomag",
@@ -24,10 +24,6 @@
     "mocha": "~5.x",
     "chai": "~4.2.0"
   },
-  "author": "Brandon Reavis",
   "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/naturalatlas/geomagnetism/issues"
-  },
-  "homepage": "https://github.com/naturalatlas/geomagnetism"
+  "homepage": "https://github.com/sf31/geomagnetism"
 }
